@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fastapi-socketio-service
+    env: docker
+    repo: https://github.com/Folylolyboyz/HostingMusicApp
+    plan: free
+    healthCheckPath: /docs
