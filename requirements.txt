@@ -1,0 +1,8 @@
+asyncio
+python-socketio
+uvicorn
+multiprocessing
+yt-dlp
+ytmusicapi
+pydantic
+fastapi
